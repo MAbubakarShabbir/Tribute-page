@@ -1,0 +1,23 @@
+h1{
+    
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3{
+    
+    text-align: center;
+    text-transform: capitalize;
+}
+.head{
+    background: rgb(172, 162, 162);
+}
+.image img{
+   /* resize: both;*/
+    width: 100%;
+    height: auto;
+    
+  }
+footer{
+    text-align: center;
+}
